@@ -163,8 +163,4 @@ Currently Learning:
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sanskrutibhor27&label=Profile+Views&color=00ffaa&style=flat"/>
 </p>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanskrutibhor27/sanskrutibhor27/output/github-contribution-grid-snake.svg" />
-</p>
