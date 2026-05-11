@@ -2,11 +2,6 @@
   <img src="Sanskruti Anil Bhor.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanskruti Anil Bhor</h1>
-
-<h3 align="center">
-Cybersecurity Enthusiast • Ethical Hacking Learner • Web Developer
-</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+Explorer;Ethical+Hacking+Learner;Frontend+Developer;Always+Learning+New+Things" />
@@ -20,12 +15,7 @@ Cybersecurity Enthusiast • Ethical Hacking Learner • Web Developer
 Name: Sanskruti Anil Bhor
 
 Education:
-  - BCA Student at SNDT University
-
-Focus:
-  - Cybersecurity
-  - Ethical Hacking
-  - Web Development
+  - BCA Graduate from SNDT University
 
 Currently Learning:
   - Vulnerability Assessment
@@ -33,14 +23,6 @@ Currently Learning:
   - Linux Fundamentals
   - SIEM & Security Tools
 
-Ask Me About:
-  - Cybersecurity
-  - Frontend Development
-  - SQL & Databases
-  - Web Security
-
-Fun Fact:
-  - Exploring both creativity and security in tech
 ```
 
 ---
