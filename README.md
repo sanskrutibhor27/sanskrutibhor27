@@ -20,20 +20,12 @@ Focus:
   - Ethical Hacking
   - Web Development
 
-Currently Learning:
-  - Linux
-  - SIEM Tools
-  - Web Security
-  - Vulnerability Assessment
-
 Ask Me About:
   - Cybersecurity
   - Frontend Development
   - SQL & Databases
   - Tech Innovation
 
-Fun Fact:
-  - Exploring both creativity and security in tech
 ```
 
 ---
@@ -116,7 +108,7 @@ Fun Fact:
 
 ---
 
-# 🏆 GitHub Achievements
+#💡 What I'm Working On
 
 - 🌱 Learning Ethical Hacking & Cybersecurity
 - 🔐 Exploring Security Tools & Labs
