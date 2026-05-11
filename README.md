@@ -1,38 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sanskruti Bhor</h1>
+<p align="center">
+  <img src="Sanskruti Anil Bhor.png" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Sanskruti Anil Bhor</h1>
 
 <h3 align="center">
 Cybersecurity Enthusiast • Ethical Hacking Learner • Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Cybersecurity+Explorer;Ethical+Hacking+Learner;Frontend+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+Explorer;Ethical+Hacking+Learner;Frontend+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 💫 About Me
+# 🔐 About Me
 
 ```yaml
-Name: Sanskruti Bhor
-Education: BCA Student
+Name: Sanskruti Anil Bhor
+
+Education:
+  - BCA Student at SNDT University
+
 Focus:
   - Cybersecurity
   - Ethical Hacking
   - Web Development
 
+Currently Learning:
+  - Vulnerability Assessment
+  - Penetration Testing
+  - Linux Fundamentals
+  - SIEM & Security Tools
+
 Ask Me About:
   - Cybersecurity
   - Frontend Development
   - SQL & Databases
-  - Tech Innovation
+  - Web Security
 
+Fun Fact:
+  - Exploring both creativity and security in tech
 ```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/sanskruti-bhor-24156b3b4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,8 +57,8 @@ Ask Me About:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@bhorsanskruti">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<a href="https://github.com/sanskrutibhor27">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -54,43 +69,69 @@ Ask Me About:
 
 ## 👨‍💻 Programming Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,php,r,html,css,js,python,mysql"/>
+
+</p>
 
 ---
 
 ## 🌐 Web Development
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,django"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+</p>
 
 ---
 
-## 🔐 Cybersecurity & Tools
+## 🔐 Cybersecurity Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gophish-3C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+</p>
 
 ---
 
-## 🎨 Design & Creativity
+## 🛠️ Tools & Platforms
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -98,25 +139,45 @@ Ask Me About:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanskrutibhor27&theme=tokyonight&show_icons=true&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanskrutibhor27&theme=tokyonight&show_icons=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrutibhor27&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrutibhor27&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutibhor27&theme=tokyonight&hide_border=false&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutibhor27&theme=tokyonight&layout=compact"/>
 
 </p>
 
 ---
 
-#💡 What I'm Working On
+# 🚀 Cybersecurity Journey
 
-- 🌱 Learning Ethical Hacking & Cybersecurity
-- 🔐 Exploring Security Tools & Labs
+- 🌱 Learning Ethical Hacking & Web Security
+- 🔐 Exploring Vulnerability Assessment Tools
 - 💻 Building Web Development Projects
-- 🚀 Improving Skills Every Day
+- 🚀 Improving Skills Through Labs & Practice
+
+---
+
+# 📜 Certifications
+
+- TRY HACK ME: Presecurity
+- TRY HACK ME: Cybersecurity 101
+- Linux 100: Fundamentals
+- TRUST & SECURITY by Google Cloud
+- Practical Helpdesk
+
+---
+
+# 🧩 Projects
+
+- 🔹 Artiq.it — Business Website
+- 🔹 WordGame — Web-Based Game
+- 🔹 Aroma Candles — E-Commerce Website
+- 🔹 Sensai — Aptitude Preparation Website
+- 🔹 Portfolio — Personal Portfolio Website
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanskrutibhor27&label=Profile+Views&color=00ffaa&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sanskrutibhor27&label=Profile+Views&color=00ffaa&style=flat"/>
 </p>
