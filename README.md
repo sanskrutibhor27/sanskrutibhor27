@@ -1,46 +1,21 @@
+```markdown
 <div align="center">
 
-<img src="Sanskruti Anil Bhor.png" width="100%"/>
+<img src="banner.png" width="100%" />
 
-# 👋 Hi, I'm Sanskruti Bhor
+# Sanskruti Bhor
 
-### Cybersecurity • Web Penetration Testing • Vulnerability Assessment & Penetration Testing
+### Cybersecurity Enthusiast • Web Penetration Testing • Vulnerability Assessment & Penetration Testing
 
-> **"Curiosity. Discipline. Progress."**
+> *"Learn. Adapt. Defend."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Web+Penetration+Testing;Vulnerability+Assessment+%26+Penetration+Testing;Currently+Exploring+Network+Penetration+Testing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=00FF7F&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Web+Penetration+Testing;Vulnerability+Assessment+%26+Penetration+Testing;Currently+Exploring+Network+Security;Building+Secure+Applications"/>
 
-</div>
+<p>
 
----
-
-# 💫 About Me
-
-I'm passionate about cybersecurity and enjoy understanding how systems work, identifying security weaknesses, and learning how to secure them.
-
-My current interests include:
-
-- 🔐 Web Penetration Testing
-- 🛡️ Vulnerability Assessment & Penetration Testing
-- 🌐 Network Penetration Testing
-- 💻 Secure Web Development
-- 📚 Continuous hands-on learning through labs and practical projects
-
----
-
-# 🎯 Focus Areas
-
-- Web Security
-- Offensive Security
-- Network Security
-- Secure Application Development
-- Security Research
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<a href="https://github.com/sanskrutibhor27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/sanskruti-bhor-24156b3b4">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -50,15 +25,42 @@ My current interests include:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sanskrutibhor27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
+
+</div>
 
 ---
 
-# 💻 Languages
+# 👋 About Me
+
+I'm **Sanskruti Bhor**, a **BCA Graduate** with an **Advanced Diploma in Cyber Security & Ethical Hacking**.
+
+My journey in cybersecurity is driven by curiosity, hands-on learning, and continuous improvement. I enjoy understanding how systems work, identifying security weaknesses, and strengthening them through practical techniques.
+
+---
+
+# 🎯 Focus Areas
+
+- 🔐 Web Penetration Testing
+- 🛡️ Vulnerability Assessment & Penetration Testing (VAPT)
+- 🌐 Network Security
+- 💻 Secure Web Development
+- ⚔️ Offensive Security
+- 🔍 Security Research
+
+---
+
+# 🎓 Education
+
+🎓 Bachelor of Computer Applications (BCA)
+
+🎓 Advanced Diploma in Cyber Security & Ethical Hacking
+
+---
+
+# 💻 Technical Skills
+
+### Languages
 
 <p align="center">
 
@@ -68,39 +70,39 @@ My current interests include:
 
 ---
 
-# 🌐 Web Development
+### Web Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,django"/>
+<img src="https://skillicons.dev/icons?i=react,django,tailwind"/>
 
 </p>
 
 ---
 
-# 🔐 Cybersecurity
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git"/>
-
-</p>
+### Cybersecurity
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gophish-3C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gophish-444444?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🗄️ Databases
+### Databases
 
 <p align="center">
 
@@ -110,76 +112,70 @@ My current interests include:
 
 ---
 
-# ⚙️ Tools
+### Platforms & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode"/>
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+# 📚 Currently Exploring
 
-</p>
+- Network Security
+- Security Automation
+- Practical Penetration Testing Labs
+- Secure Coding Practices
 
 ---
 
 # 📜 Certifications
 
-- 🏅 TryHackMe – Pre Security
-- 🏅 TryHackMe – Cyber Security 101
-- 🏅 Linux 100 Fundamentals
-- 🏅 Google Cloud – Trust & Security
-- 🏅 Practical Helpdesk
+- TryHackMe – Pre Security
+- TryHackMe – Cyber Security 101
+- Linux 100 – Fundamentals
+- Google Cloud – Trust & Security
+- Practical Helpdesk
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Featured Projects
 
-- 🌐 Network Penetration Testing
-- 🔍 PortSwigger Web Security Labs
-- 🧪 Vulnerable Lab Machines
-- 🛠️ Security Automation Projects
+- 🔹 Artiq.it
+- 🔹 Aroma Candles E-Commerce
+- 🔹 Sensai
+- 🔹 WordGame
+- 🔹 Personal Portfolio
+
+> More cybersecurity projects and write-ups coming soon.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanskrutibhor27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanskrutibhor27&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutibhor27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutibhor27&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sanskrutibhor27&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sanskrutibhor27&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
-
----
-
-# 📌 Featured Projects
-
-- 🔐 Cybersecurity Labs
-- 🌐 Secure Web Applications
-- 🐍 Python Automation
-- 🛡️ Security Scripts
-- 💼 Personal Portfolio
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for visiting 👨‍💻
 
-<img src="https://komarev.com/ghpvc/?username=sanskrutibhor27&label=Profile%20Views&color=00ffaa&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sanskrutibhor27&label=Profile%20Views&color=00ff7f&style=for-the-badge"/>
 
 </div>
+```
