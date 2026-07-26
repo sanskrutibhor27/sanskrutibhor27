@@ -1,28 +1,18 @@
-```markdown
 <div align="center">
-
-<img src="banner.png" width="100%" />
 
 # Sanskruti Bhor
 
-### Cybersecurity Enthusiast • Web Penetration Testing • Vulnerability Assessment & Penetration Testing
+### Web Penetration Testing • Vulnerability Assessment & Penetration Testing • Network Security
 
-> *"Learn. Adapt. Defend."*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=00FF7F&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Web+Penetration+Testing;Vulnerability+Assessment+%26+Penetration+Testing;Currently+Exploring+Network+Security;Building+Secure+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1500&color=00C853&center=true&vCenter=true&width=750&lines=Cybersecurity;Web+Penetration+Testing;Vulnerability+Assessment+%26+Penetration+Testing;Network+Security;Secure+Web+Development" />
 
 <p>
-
-<a href="https://github.com/sanskrutibhor27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sanskruti-bhor-24156b3b4">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:bhorsanskruti6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -31,151 +21,88 @@
 
 ---
 
-# 👋 About Me
+## 👤 Executive Summary
 
-I'm **Sanskruti Bhor**, a **BCA Graduate** with an **Advanced Diploma in Cyber Security & Ethical Hacking**.
+BCA graduate, currently pursuing an **M.Sc. in Computer Science** and an **Advanced Diploma in Cyber Security & Ethical Hacking**.
 
-My journey in cybersecurity is driven by curiosity, hands-on learning, and continuous improvement. I enjoy understanding how systems work, identifying security weaknesses, and strengthening them through practical techniques.
+Completed training in **Web Penetration Testing (WPT)** and **Vulnerability Assessment & Penetration Testing (VAPT)**, with a current focus on **Network Security**.
 
----
-
-# 🎯 Focus Areas
-
-- 🔐 Web Penetration Testing
-- 🛡️ Vulnerability Assessment & Penetration Testing (VAPT)
-- 🌐 Network Security
-- 💻 Secure Web Development
-- ⚔️ Offensive Security
-- 🔍 Security Research
+Hands-on cybersecurity experience includes successfully compromising **25+ VulnHub vulnerable machines**, performing reconnaissance, enumeration, exploitation, privilege escalation, web application testing, and post-exploitation activities within controlled lab environments.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-🎓 Bachelor of Computer Applications (BCA)
-
-🎓 Advanced Diploma in Cyber Security & Ethical Hacking
-
----
-
-# 💻 Technical Skills
-
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,php,html,css,js,mysql"/>
-
-</p>
+| Qualification | Status |
+|---------------|--------|
+| **M.Sc. in Computer Science** | Pursuing |
+| **Advanced Diploma in Cyber Security & Ethical Hacking** | Pursuing |
+| **Bachelor of Computer Applications (BCA)** | Completed |
 
 ---
 
-### Web Technologies
+## 🛡️ Core Competencies
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,django,tailwind"/>
-
-</p>
-
----
-
-### Cybersecurity
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gophish-444444?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge"/>
-
-</p>
-
----
-
-### Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-</p>
-
----
-
-### Platforms & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode"/>
-
-</p>
-
----
-
-# 📚 Currently Exploring
-
+- Web Penetration Testing (WPT)
+- Vulnerability Assessment & Penetration Testing (VAPT)
 - Network Security
-- Security Automation
-- Practical Penetration Testing Labs
-- Secure Coding Practices
+- Web Application Security
+- Linux Privilege Escalation
+- Secure Web Development
+- Security Research
 
 ---
 
-# 📜 Certifications
+## 🧪 Hands-on Experience
+
+| Area | Experience |
+|------|------------|
+| **VulnHub** | Solved **25+ Vulnerable Machines** |
+| **Web Penetration Testing** | Practical Assessments |
+
+---
+
+## 💻 Technical Expertise
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | C • Python • PHP • JavaScript • HTML5 • CSS3 • SQL |
+| **Web Technologies** | React • Django • Tailwind CSS • Bootstrap • REST APIs • JWT Authentication |
+| **Cybersecurity** | Web Penetration Testing • Vulnerability Assessment • Network Security • Web Application Security • OWASP Top 10 • Secure Coding |
+| **Security Tools** | Burp Suite • Nmap • Metasploit • Nessus • Wireshark • SQLmap • Gobuster • FFUF • Dirsearch • Hydra • John the Ripper • Netcat • Nikto |
+| **Networking** | TCP/IP • DNS • HTTP/HTTPS • SSH • FTP • Port Scanning • Service Enumeration |
+| **Operating Systems** | Kali Linux • Ubuntu • Windows |
+| **Databases** | MySQL • PostgreSQL • Oracle Database • MongoDB |
+| **Virtualization** | VMware Workstation • VirtualBox |
+| **Development Tools** | Visual Studio Code • XAMPP • Postman |
+| **Version Control** | Git • GitHub |
+| **Scripting** | Bash • Python |
+
+---
+
+
+## 📜 Certifications
 
 - TryHackMe – Pre Security
 - TryHackMe – Cyber Security 101
 - Linux 100 – Fundamentals
 - Google Cloud – Trust & Security
 - Practical Helpdesk
+- Qualys VMDR Specialist
+- Qyalys CSAM Specialist
 
 ---
 
-# 🚀 Featured Projects
+## 📫 Connect
 
-- 🔹 Artiq.it
-- 🔹 Aroma Candles E-Commerce
-- 🔹 Sensai
-- 🔹 WordGame
-- 🔹 Personal Portfolio
+<p align="left">
 
-> More cybersecurity projects and write-ups coming soon.
+<a href="https://www.linkedin.com/in/sanskruti-bhor-24156b3b4">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanskrutibhor27&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutibhor27&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<a href="mailto:bhorsanskruti6@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sanskrutibhor27&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-### Thanks for visiting 👨‍💻
-
-<img src="https://komarev.com/ghpvc/?username=sanskrutibhor27&label=Profile%20Views&color=00ff7f&style=for-the-badge"/>
-
-</div>
-```
