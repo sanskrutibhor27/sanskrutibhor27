@@ -35,7 +35,7 @@ Hands-on cybersecurity experience includes successfully compromising **25+ VulnH
 
 | Qualification | Status |
 |---------------|--------|
-| **M.Sc. in Computer Science** | Pursuing |
+| **M.Sc. in Computer Science (AI and Data Science)** | Pursuing |
 | **Advanced Diploma in Cyber Security & Ethical Hacking** | Pursuing |
 | **Bachelor of Computer Applications (BCA)** | Completed |
 
